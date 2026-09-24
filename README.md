@@ -1,1 +1,11 @@
-# maind-creative-coding-foundation-lesssons
+# MAIND Creative Coding Foundation Lesssons
+
+## About  
+
+This repository contains the examples seen during the lessons 
+
+The topics are: 
+
+- HTML
+- CSS
+- JS 
